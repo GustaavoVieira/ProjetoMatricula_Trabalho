@@ -86,22 +86,27 @@ DELETE FROM matricula WHERE id_matricula = $id_matricula
 ```
 
 ## == IMAGENS DO SISTEMA ==
-<div align="center">
 <h4>Tela Inicial</h4>
+
 ![telainicial](https://github.com/user-attachments/assets/7df249dc-e3d0-4d94-8915-3d2acd8a054f)
 <h4>Cadastro Aluno</h4>
+
 ![cadaluno](https://github.com/user-attachments/assets/c774efa0-d63a-4709-835e-0a2796edc5c4)
 <h4>Tabela Aluno</h4>
+
 ![tabaluno](https://github.com/user-attachments/assets/dd6f0ce2-1939-440b-abf1-d1235f847aed)
 <h4>Cadastro de Curso</h4>
+
 ![cadcurso](https://github.com/user-attachments/assets/098620c3-a269-40f6-8572-498a42851a35)
 <h4>Tabela Cursos</h4>
+
 ![tabcurso](https://github.com/user-attachments/assets/e3205ba7-09e9-49d5-a823-a148963c01dc)
 <h4>Cadastro de Matrícula</h4>
+
 ![cadmatricula](https://github.com/user-attachments/assets/781e6e5d-673c-4e34-96c7-3d91ea7b3c6e)
 <h4>Tabela e Gráfico Matrículas</h4>
+
 ![tab_grafMatricula](https://github.com/user-attachments/assets/a2a333c0-96a5-4506-a047-adf071988387)
-</div>
 
 
 
